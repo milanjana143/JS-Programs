@@ -1,6 +1,4 @@
-# Timt-Backend
-Node.js Custom Module Practice Questions (Odd/Even, 
-Prime, Array, Loops, Conditions) 
+# Content 
 1. Create a custom module to check whether a given number is odd or even, and import 
 it in another file. 
 2. Create a module that prints all even numbers between 1 and 50 using a loop. Import 
